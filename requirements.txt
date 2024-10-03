@@ -1,0 +1,7 @@
+# requirements.txt
+
+# tqdm for progress bars
+tqdm
+
+# Pillow for image processing
+Pillow
